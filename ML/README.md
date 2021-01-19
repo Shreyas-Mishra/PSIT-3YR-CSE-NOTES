@@ -4,3 +4,4 @@ https://towardsdatascience.com/deep-learning-for-self-driving-cars-7f198ef4cfa2 
 <li>
 https://edition.cnn.com/interactive/2014/02/tech/cnn10-future-of-driving/</li>
   
+<li>https://youtube.com/playlist?list=PLJ5C_6qdAvBGaabKHmVbtryZW9KpICiHC</li>
